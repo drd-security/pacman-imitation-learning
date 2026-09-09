@@ -22,7 +22,7 @@ SEED = 42
 random.seed(SEED)
 np.random.seed(SEED)
 
-path_to_saved_model = "models/pacman_model.pth"
+path_to_saved_model = "pacman_model.pth"
 
 # Feel free to add code here depending on your implementation
 
